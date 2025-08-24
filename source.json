@@ -1,6 +1,6 @@
 {
   "name": "Pebble Repo",
-  "identifier": "com.maxlep.pebble",
+  "identifier": "com.malep.pebble",
   "apps": [
     {
       "name": "Pebble",
