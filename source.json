@@ -1,13 +1,13 @@
 {
   "name": "Pebble Repo",
-  "identifier": "com.maxime.pebble",
+  "identifier": "com.maxlep.pebble",
   "apps": [
     {
       "name": "Pebble",
       "bundleIdentifier": "com.getpebble.ios",
       "developerName": "Pebble",
       "version": "4.4",
-      "iconURL": "https://tonlien.com/pebble-icon.png",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pebble_logo.svg/512px-Pebble_logo.svg.png",
       "downloadURL": "https://www.dropbox.com/scl/fi/txmpcf69qqeu0x18bkvts/com.getpebble.pebbletime-iPhone13-3.ipa?rlkey=h8tfpsxodl0ccurwtnanegziv&st=29n5exhr&dl=1",
       "localizedDescription": "L'app Pebble restaurée pour iOS via AltStore.",
       "screenshotURLs": [],
